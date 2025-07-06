@@ -1,0 +1,7 @@
+pyhton-dotenv
+google-generativeai
+langchain
+PyPDF
+faiss-cpu
+streamlit
+-e .
